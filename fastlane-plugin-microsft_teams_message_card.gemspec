@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'dcheignon@kds.com'
 
   spec.summary       = 'Send a message card to your Microsoft teams channel'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-microsft_teams_message_card"
+  spec.homepage      = "https://github.com/cheignon/fastlane-plugin-microsft_teams_message_card"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
