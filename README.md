@@ -50,6 +50,8 @@ Send a message card to your Microsoft teams channel
             teams_url: "https://outlook.office.com/webhook/..."
           )
  ```  
+ 
+ for type in the array of potential_action field don't forget to add "@type" else doesn't work
 ## Run tests for this plugin
 
 To run both the tests, and code style validation, run
